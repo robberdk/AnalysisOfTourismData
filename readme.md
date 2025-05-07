@@ -7,9 +7,11 @@ In an era where technology drives innovation and shapes the world around us, the
 This book is designed as a practical guide towards the general language of digitalization,
 focusing on structured problem-solving through Python programming. It combines clear explanations, real-world examples, and hands-on exercises to help readers develop the analytical mindset required to tackle complex challenges.
 The concepts learned can also be easily transferred by the students to other application areas. Furthermore, the course conveys ...
-•	...the foundations of python programming
+
+•	...the foundations of python programming \n
 •	...basic concepts of the development of data management, data analysis
 •	...solution-oriented, structured approaches to professional questions
+
 Let’s embark on this journey to unravel the art of problem-solving and discover how Python can transform your ideas into solutions!
 
 # How to Use This Repository
