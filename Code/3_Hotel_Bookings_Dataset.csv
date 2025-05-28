@@ -1,0 +1,251 @@
+Reservation ID,Family Size,Rooms Booked,Stay Duration (nights),Income (Euro),Hotel,Room Class,Cost of Stay (Euro)
+R0001,5,2,8,70200,Budget Inn,Single,800.0
+R0002,4,1,10,199316,Grand Royal Hotel,Premium,5000.0
+R0003,3,3,9,121268,Elite Palace,Premium,30375.0
+R0004,5,1,13,37347,Budget Inn,Double,975.0
+R0005,2,1,10,167992,Grand Royal Hotel,Deluxe,6000.0
+R0006,5,5,8,51822,Budget Inn,Single,2000.0
+R0007,1,1,8,197731,Grand Royal Hotel,Suite,3200.0
+R0008,3,1,1,60108,Budget Inn,Single,50.0
+R0009,2,2,10,148955,Elite Palace,Suite,6000.0
+R0010,4,4,11,27967,Budget Inn,Double,13200.0
+R0011,2,2,5,130719,Elite Palace,Double,2250.0
+R0012,4,3,4,31871,Budget Inn,Double,900.0
+R0013,2,1,2,184685,Grand Royal Hotel,Suite,800.0
+R0014,5,1,8,48179,Budget Inn,Single,400.0
+R0015,5,1,3,75099,Elite Palace,Double,675.0
+R0016,5,2,4,55262,Budget Inn,Double,600.0
+R0017,1,1,12,98213,Elite Palace,Premium,4500.0
+R0018,4,2,7,137407,Elite Palace,Suite,4200.0
+R0019,5,2,10,169340,Grand Royal Hotel,Premium,10000.0
+R0020,1,1,9,106269,Elite Palace,Premium,3375.0
+R0021,4,1,2,80545,Elite Palace,Double,450.0
+R0022,2,2,3,59922,Budget Inn,Double,450.0
+R0023,1,1,4,62913,Budget Inn,Single,400.0
+R0024,3,1,10,117033,Elite Palace,Suite,3000.0
+R0025,1,1,1,124792,Elite Palace,Premium,375.0
+R0026,1,1,7,197404,Grand Royal Hotel,Deluxe,4200.0
+R0027,4,1,2,139863,Elite Palace,Premium,750.0
+R0028,2,2,5,176104,Grand Royal Hotel,Premium,5000.0
+R0029,3,2,1,188918,Grand Royal Hotel,Suite,800.0
+R0030,5,1,3,64936,Budget Inn,Double,225.0
+R0031,5,2,12,180866,Grand Royal Hotel,Suite,9600.0
+R0032,1,1,2,48141,Budget Inn,Single,100.0
+R0033,4,2,1,160146,Grand Royal Hotel,Premium,1000.0
+R0034,4,2,7,157478,Grand Royal Hotel,Premium,7000.0
+R0035,5,3,5,117359,Elite Palace,Suite,4500.0
+R0036,3,1,1,143279,Elite Palace,Suite,300.0
+R0037,2,1,6,174363,Grand Royal Hotel,Premium,3000.0
+R0038,3,2,5,61568,Budget Inn,Double,750.0
+R0039,2,2,3,117539,Elite Palace,Double,1350.0
+R0040,5,4,12,66851,Budget Inn,Double,3600.0
+R0041,2,1,7,74823,Budget Inn,Double,525.0
+R0042,4,2,11,43312,Budget Inn,Single,1100.0
+R0043,1,1,10,194180,Grand Royal Hotel,Premium,5000.0
+R0044,1,1,9,185243,Grand Royal Hotel,Suite,3600.0
+R0045,5,3,14,192851,Grand Royal Hotel,Suite,16800.0
+R0046,4,4,13,118723,Elite Palace,Premium,19500.0
+R0047,3,3,13,32411,Budget Inn,Double,2925.0
+R0048,4,3,9,77009,Elite Palace,Premium,10125.0
+R0049,1,1,14,166494,Grand Royal Hotel,Deluxe,8400.0
+R0050,1,1,9,193540,Grand Royal Hotel,Deluxe,5400.0
+R0051,4,1,2,52371,Budget Inn,Double,150.0
+R0052,4,4,3,77022,Elite Palace,Premium,4500.0
+R0053,1,1,7,91229,Elite Palace,Double,1575.0
+R0054,3,3,5,119071,Elite Palace,Suite,4500.0
+R0055,5,5,2,116774,Elite Palace,Premium,3750.0
+R0056,5,4,3,46715,Budget Inn,Single,600.0
+R0057,4,2,10,47605,Budget Inn,Double,1500.0
+R0058,5,4,6,119853,Elite Palace,Suite,7200.0
+R0059,1,1,13,51174,Budget Inn,Double,975.0
+R0060,1,1,7,161028,Grand Royal Hotel,Premium,3500.0
+R0061,4,2,9,96373,Elite Palace,Premium,6750.0
+R0062,4,4,1,89252,Elite Palace,Suite,1200.0
+R0063,4,2,11,90017,Elite Palace,Double,4950.0
+R0064,3,3,7,83037,Elite Palace,Suite,6300.0
+R0065,5,5,8,109818,Elite Palace,Double,9000.0
+R0066,4,3,12,26548,Budget Inn,Double,2700.0
+R0067,2,2,14,136981,Elite Palace,Premium,10500.0
+R0068,2,2,3,174249,Grand Royal Hotel,Suite,2400.0
+R0069,1,1,4,44022,Budget Inn,Double,300.0
+R0070,5,4,10,126297,Elite Palace,Suite,12000.0
+R0071,4,2,6,156614,Grand Royal Hotel,Premium,6000.0
+R0072,2,1,10,80428,Elite Palace,Double,2250.0
+R0073,5,5,7,173812,Grand Royal Hotel,Suite,14000.0
+R0074,1,1,13,79353,Elite Palace,Double,2925.0
+R0075,3,1,14,133132,Elite Palace,Premium,5250.0
+R0076,5,2,4,36052,Budget Inn,Single,400.0
+R0077,5,4,8,120689,Elite Palace,Double,7200.0
+R0078,3,2,5,198148,Grand Royal Hotel,Premium,5000.0
+R0079,5,1,1,151743,Grand Royal Hotel,Deluxe,2400.0
+R0080,1,1,4,20163,Budget Inn,Double,300.0
+R0081,1,1,3,61424,Budget Inn,Single,150.0
+R0082,3,3,9,161706,Grand Royal Hotel,Premium,13500.0
+R0083,4,2,8,155870,Grand Royal Hotel,Deluxe,9600.0
+R0084,2,1,1,42420,Budget Inn,Double,75.0
+R0085,4,4,11,140575,Elite Palace,Suite,13200.0
+R0086,5,3,6,49300,Budget Inn,Double,1350.0
+R0087,2,2,9,109881,Elite Palace,Suite,5400.0
+R0088,3,1,7,30749,Budget Inn,Double,525.0
+R0089,3,2,4,124131,Elite Palace,Suite,2400.0
+R0090,2,2,13,176193,Grand Royal Hotel,Deluxe,15600.0
+R0091,1,1,1,148563,Elite Palace,Premium,375.0
+R0092,2,1,12,57487,Budget Inn,Double,900.0
+R0093,5,4,2,184433,Grand Royal Hotel,Deluxe,4800.0
+R0094,1,1,12,41223,Budget Inn,Single,600.0
+R0095,3,3,5,92930,Elite Palace,Premium,5625.0
+R0096,2,1,12,165128,Grand Royal Hotel,Premium,6000.0
+R0097,4,3,11,48380,Budget Inn,Single,1650.0
+R0098,4,2,5,46035,Budget Inn,Double,750.0
+R0099,5,3,8,50620,Budget Inn,Double,1800.0
+R0100,4,3,6,170949,Grand Royal Hotel,Suite,7200.0
+R0101,2,1,8,137360,Elite Palace,Suite,2400.0
+R0102,2,1,2,73352,Budget Inn,Double,150.0
+R0103,4,3,3,181983,Grand Royal Hotel,Premium,4500.0
+R0104,2,2,6,183856,Grand Royal Hotel,Suite,4800.0
+R0105,5,4,12,23191,Budget Inn,Single,2400.0
+R0106,1,1,13,184232,Grand Royal Hotel,Deluxe,7800.0
+R0107,5,2,10,110536,Elite Palace,Double,4500.0
+R0108,5,4,3,124576,Elite Palace,Suite,3600.0
+R0109,2,2,6,23631,Budget Inn,Single,600.0
+R0110,1,1,6,157244,Grand Royal Hotel,Suite,2400.0
+R0111,2,1,2,62080,Budget Inn,Single,100.0
+R0112,3,1,7,110353,Elite Palace,Double,1575.0
+R0113,2,1,12,171353,Grand Royal Hotel,Premium,6000.0
+R0114,2,2,2,48671,Budget Inn,Single,200.0
+R0115,2,1,6,142811,Elite Palace,Double,1350.0
+R0116,1,1,1,147734,Elite Palace,Premium,375.0
+R0117,2,1,3,179674,Grand Royal Hotel,Deluxe,1800.0
+R0118,1,1,2,71399,Budget Inn,Single,100.0
+R0119,4,3,7,174544,Grand Royal Hotel,Deluxe,12600.0
+R0120,3,3,14,27099,Budget Inn,Single,2100.0
+R0121,1,1,4,176503,Grand Royal Hotel,Premium,2000.0
+R0122,4,4,8,76492,Elite Palace,Double,7200.0
+R0123,1,1,6,116722,Elite Palace,Double,1350.0
+R0124,1,1,12,198756,Grand Royal Hotel,Suite,4800.0
+R0125,3,2,10,50111,Budget Inn,Double,1500.0
+R0126,5,2,4,83936,Elite Palace,Premium,3000.0
+R0127,5,2,5,173686,Grand Royal Hotel,Deluxe,6000.0
+R0128,1,1,13,193063,Grand Royal Hotel,Deluxe,7800.0
+R0129,2,2,13,80920,Elite Palace,Suite,7800.0
+R0130,4,4,9,83530,Elite Palace,Premium,13500.0
+R0131,2,2,7,187296,Grand Royal Hotel,Premium,7000.0
+R0132,2,2,10,27788,Budget Inn,Double,1500.0
+R0133,1,1,14,48082,Budget Inn,Single,700.0
+R0134,1,1,14,143287,Elite Palace,Premium,5250.0
+R0135,1,1,9,109570,Elite Palace,Double,2025.0
+R0136,1,1,7,121015,Elite Palace,Suite,8400.0
+R0137,5,2,12,103588,Elite Palace,Double,5400.0
+R0138,1,1,1,167603,Grand Royal Hotel,Suite,400.0
+R0139,5,3,12,108340,Elite Palace,Double,8100.0
+R0140,5,5,8,114439,Elite Palace,Suite,12000.0
+R0141,1,1,4,195929,Grand Royal Hotel,Premium,2000.0
+R0142,3,3,3,161214,Grand Royal Hotel,Deluxe,5400.0
+R0143,4,3,14,135053,Elite Palace,Double,9450.0
+R0144,2,2,13,68355,Budget Inn,Single,1300.0
+R0145,5,3,7,160938,Grand Royal Hotel,Suite,8400.0
+R0146,4,4,12,145426,Elite Palace,Suite,14400.0
+R0147,3,2,3,84027,Elite Palace,Suite,1800.0
+R0148,2,1,8,179210,Grand Royal Hotel,Premium,4000.0
+R0149,2,2,6,112601,Elite Palace,Double,2700.0
+R0150,5,1,5,49956,Budget Inn,Double,375.0
+R0151,1,1,4,124797,Elite Palace,Double,900.0
+R0152,3,3,8,144917,Elite Palace,Premium,9000.0
+R0153,5,5,8,146303,Elite Palace,Double,9000.0
+R0154,3,3,12,156511,Grand Royal Hotel,Deluxe,21600.0
+R0155,1,1,1,198313,Grand Royal Hotel,Suite,400.0
+R0156,1,1,9,62533,Budget Inn,Single,450.0
+R0157,5,5,14,179342,Grand Royal Hotel,Premium,35000.0
+R0158,1,1,5,98815,Elite Palace,Premium,1875.0
+R0159,4,4,4,59279,Budget Inn,Double,1200.0
+R0160,2,2,6,129787,Elite Palace,Suite,3600.0
+R0161,5,3,6,174960,Grand Royal Hotel,Deluxe,10800.0
+R0162,3,1,2,168702,Grand Royal Hotel,Suite,800.0
+R0163,4,4,8,81063,Elite Palace,Double,7200.0
+R0164,5,3,7,147896,Elite Palace,Double,4725.0
+R0165,1,1,1,186216,Grand Royal Hotel,Suite,400.0
+R0166,1,1,5,117661,Elite Palace,Double,1125.0
+R0167,1,1,12,158051,Grand Royal Hotel,Premium,6000.0
+R0168,1,1,6,177261,Grand Royal Hotel,Suite,2400.0
+R0169,3,2,4,193672,Grand Royal Hotel,Premium,4000.0
+R0170,4,3,2,143257,Elite Palace,Suite,1800.0
+R0171,2,2,13,106205,Elite Palace,Suite,7800.0
+R0172,3,1,14,26910,Budget Inn,Single,700.0
+R0173,3,3,4,66857,Budget Inn,Single,600.0
+R0174,2,1,1,54964,Budget Inn,Double,75.0
+R0175,2,1,7,176299,Grand Royal Hotel,Deluxe,4200.0
+R0176,1,1,2,157050,Grand Royal Hotel,Suite,800.0
+R0177,3,1,13,37153,Budget Inn,Double,975.0
+R0178,5,5,2,79765,Elite Palace,Double,2250.0
+R0179,2,2,9,128212,Elite Palace,Suite,5400.0
+R0180,2,1,5,59071,Budget Inn,Single,250.0
+R0181,4,2,2,132990,Elite Palace,Suite,1200.0
+R0182,5,4,11,89519,Elite Palace,Suite,26400.0
+R0183,5,4,9,29503,Budget Inn,Double,5400.0
+R0184,2,2,9,115457,Elite Palace,Double,4050.0
+R0185,1,1,1,167977,Grand Royal Hotel,Deluxe,600.0
+R0186,4,2,11,65838,Budget Inn,Double,1650.0
+R0187,5,3,3,145200,Elite Palace,Double,2025.0
+R0188,2,1,4,109489,Elite Palace,Double,900.0
+R0189,5,3,14,46806,Budget Inn,Double,9450.0
+R0190,4,1,7,196072,Grand Royal Hotel,Premium,3500.0
+R0191,4,1,10,173240,Grand Royal Hotel,Premium,5000.0
+R0192,3,3,4,90119,Elite Palace,Suite,3600.0
+R0193,2,1,2,58714,Budget Inn,Double,150.0
+R0194,4,4,7,75419,Elite Palace,Premium,10500.0
+R0195,3,1,6,125432,Elite Palace,Premium,2250.0
+R0196,3,2,3,112949,Elite Palace,Premium,2250.0
+R0197,5,2,6,153533,Grand Royal Hotel,Premium,6000.0
+R0198,5,5,11,165363,Grand Royal Hotel,Premium,27500.0
+R0199,3,3,6,197876,Grand Royal Hotel,Premium,9000.0
+R0200,5,5,12,96971,Elite Palace,Premium,22500.0
+R0201,4,4,5,113471,Elite Palace,Suite,6000.0
+R0202,1,1,4,84946,Elite Palace,Double,900.0
+R0203,4,1,10,118989,Elite Palace,Double,2250.0
+R0204,3,1,12,104080,Elite Palace,Suite,3600.0
+R0205,3,2,1,97794,Elite Palace,Double,450.0
+R0206,4,2,10,50841,Budget Inn,Single,1000.0
+R0207,5,3,6,144447,Elite Palace,Premium,6750.0
+R0208,5,4,2,140029,Elite Palace,Suite,2400.0
+R0209,3,1,13,199830,Grand Royal Hotel,Premium,6500.0
+R0210,2,1,3,96272,Elite Palace,Premium,1125.0
+R0211,5,2,14,57643,Budget Inn,Single,1400.0
+R0212,4,3,8,63950,Budget Inn,Single,1200.0
+R0213,5,4,10,120500,Elite Palace,Suite,12000.0
+R0214,4,4,14,179116,Grand Royal Hotel,Suite,22400.0
+R0215,3,1,14,145588,Elite Palace,Premium,5250.0
+R0216,5,5,6,35997,Budget Inn,Single,1500.0
+R0217,4,4,3,99751,Elite Palace,Suite,3600.0
+R0218,3,2,7,118605,Elite Palace,Premium,5250.0
+R0219,2,2,4,174983,Grand Royal Hotel,Deluxe,4800.0
+R0220,4,3,14,75533,Elite Palace,Suite,12600.0
+R0221,2,2,9,102566,Elite Palace,Premium,6750.0
+R0222,2,2,5,165643,Grand Royal Hotel,Deluxe,6000.0
+R0223,1,1,3,128255,Elite Palace,Premium,1125.0
+R0224,5,2,2,78005,Elite Palace,Double,900.0
+R0225,4,4,11,63541,Budget Inn,Double,3300.0
+R0226,2,1,2,43387,Budget Inn,Double,150.0
+R0227,1,1,3,113980,Elite Palace,Suite,900.0
+R0228,3,2,2,199980,Grand Royal Hotel,Suite,1600.0
+R0229,4,2,14,105457,Elite Palace,Double,6300.0
+R0230,2,1,4,164129,Grand Royal Hotel,Premium,2000.0
+R0231,5,5,2,84028,Elite Palace,Double,2250.0
+R0232,1,1,10,139246,Elite Palace,Suite,3000.0
+R0233,2,1,9,75731,Elite Palace,Double,2025.0
+R0234,5,4,2,175930,Grand Royal Hotel,Deluxe,4800.0
+R0235,2,2,9,199761,Grand Royal Hotel,Deluxe,43200.0
+R0236,4,1,13,64638,Budget Inn,Double,975.0
+R0237,4,3,6,197558,Grand Royal Hotel,Suite,7200.0
+R0238,4,3,1,40567,Budget Inn,Double,225.0
+R0239,1,1,4,180811,Grand Royal Hotel,Suite,1600.0
+R0240,4,2,14,77804,Elite Palace,Premium,10500.0
+R0241,5,2,1,128821,Elite Palace,Premium,750.0
+R0242,2,1,14,23754,Budget Inn,Single,700.0
+R0243,3,1,6,47044,Budget Inn,Single,900.0
+R0244,5,1,14,87260,Elite Palace,Double,3150.0
+R0245,5,5,13,86912,Elite Palace,Double,14625.0
+R0246,4,4,4,28706,Budget Inn,Single,800.0
+R0247,1,1,3,28894,Budget Inn,Single,150.0
+R0248,2,1,3,169109,Grand Royal Hotel,Premium,1500.0
+R0249,1,1,9,103986,Elite Palace,Double,2025.0
+R0250,2,2,6,101942,Elite Palace,Premium,4500.0

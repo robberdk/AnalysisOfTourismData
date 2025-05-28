@@ -1,0 +1,16 @@
+﻿Bestellnummer;Kundennummer;Name;Lieferadresse;Ort;Zahlungsart;Bestelldatum;Sorelle Rosso;Sorelle Bianco;Sapone Allgäu;Crema Allgäu;Sorelle Rosa;Sapone del Nord;Crema Eleonore;Limone Locale
+1;89;Leo Lieber;Schillerstr. 8;Kempten;Poypol;01.01.2021;21;;;;;;;
+2;57;Hanno Ruht;;Haldenwang;Vorkasse;03.01.2021;;;;;2;;;
+3;63;Claudia Reiner;;Augsburg;Nachname;05.01.2021;;;3;1;;;;
+4;2;Hanna Luther;;Haldenwang;Poypol;05.01.2021;;;;;;61;;
+5;64;Klaus Kleber;;Kempten;Bar;11.01.2021;;;;;1;;;
+6;485;Robert Stark;;Haldenwang;Poypol;16.01.2021;;;;31;;;;
+7;62;Alice Hartmann;;Sulzberg;Bar;01.02.2021;;;;;;2;;
+8;92;Sophie Losch;;Kempten;Poypol;04.02.2021;;;;;;;1;
+9;468;Lea Mayer;;Kempten;Bar;08.02.2021;;;;;1;;;
+10;16;Rainer Simpson;;Kempten;Poypol;12.03.2021;;;;;;1;;
+11;482;Lisa Schwertach;;Kempten;Vorkasse;12.03.2021;;;;;2;;;
+12;83;Kalle Muck;;Sulzberg;Poypol;15.03.2021;;1;;1;;;;
+13;8;Edith Kleinfung;;Wiggensbach;Vorkasse;16.03.2021;;2;;3;;;;
+14;78;Matthias Bauer;;Haldenwang;Kreditkarte;20.03.2021;;;11;;;3;;
+15;23;Marcel Müller;;Augsburg;Kreditkarte;31.03.2021;;;;;1;;;

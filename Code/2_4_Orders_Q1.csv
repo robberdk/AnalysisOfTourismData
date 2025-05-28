@@ -1,0 +1,25 @@
+Bestellnummer;Kundennummer;Name;Lieferadresse;Ort;Zahlungsart;Bestelldatum;Sorelle Rosso;Sorelle Bianco;Sapone Allgäu;Crema Allgäu;Sorelle Rosa;Sapone del Nord;Crema Eleonore;Limone Locale
+16;234;Daniel Kidders;;Sulzberg;Kreditkarte;01.04.2021;;;;1;3;2;;
+17;462;Hanno Enrich;;Wiggensbach;Nachname;03.04.2021;;;2;;;3;;
+18;482;Lisa Schwertach;;Wiggensbach;Nachname;05.04.2021;;;;3;1;;;
+19;346;Klaus Maier;;Kempten;Poypol;05.04.2021;;;;;;;13;
+20;111;Henriette Perger;;Kempten;Nachname;11.04.2021;;;;;1;;;
+21;129;Susi Schok;;Wiggensbach;Kreditkarte;16.04.2021;;;2;;;;;
+22;222;Mamuth Ertens;;Kempten;Nachname;01.05.2021;;;1;;;;;
+23;145;Max Muster;;Kempten;Poypol;04.05.2021;;;;11;;;;
+24;48;Helena Antrikos;;Kempten;Vorkasse;08.05.2021;;;;3;1;3;;
+25;6;Marius Culter;;Augsburg;Nachname;12.05.2021;;;;;;2;;
+26;146;Anna Mayer;;Wiggensbach;Kreditkarte;12.05.2021;;;;;;;1;31
+27;468;Lea Mayer;;Augsburg;Kreditkarte;15.05.2021;;;;;13;;;
+28;283;Herbert Bauer;;Wiggensbach;Nachname;16.05.2021;;1;3;1;;;;
+29;24;Roberto Gonzales;;Sulzberg;Kreditkarte;20.05.2021;13;;;;;;;
+30;98;Riccardo Hirte;;Sulzberg;Poypol;31.05.2021;;2;1;;;;;
+31;94;Fabian Ritter;;Kempten;Poypol;01.05.2021;;;;;;2;1;
+32;5;Maren Braun;;Kempten;Poypol;03.05.2021;;;;;;;;
+33;29;Lili Martin;;Kempten;Poypol;05.05.2021;;;2;1;;;1;
+34;324;Hertha König;;Kempten;Vorkasse;05.05.2021;;1;3;;;;;
+35;52;Sepp Brauer;;Sulzberg;Nachname;11.06.2021;;2;1;;1;;;31
+36;389;Klaus Bauer;;Augsburg;Kreditkarte;16.06.2021;;;;2;;;;
+37;43;Herbert Bauer;;Augsburg;Kreditkarte;01.06.2021;;;;;3;;13;
+38;46;Felix Below;;Augsburg;Kreditkarte;04.06.2021;;;;;;1;;1
+39;33;Franka Minkens;;Augsburg;Poypol;08.06.2021;;;;;;2;1;3
